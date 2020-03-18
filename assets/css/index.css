@@ -65,7 +65,13 @@
     margin-bottom: -130px;
     /* margin-left: 10px;
     margin-right: 10px; */
-    position: absolute;
+    /* position: absolute; */
+    /* display: flex; */
+    /* justify-content:center; */
+    /* flex-direction: column; */
+    /* justify-content: right; */
+    /* align-items: baseline; */
+    flex-flow: column wrap;
     top: 50px;
     right: 0px;
     left: 450px;
@@ -73,6 +79,11 @@
     /* text-align: justify; */
     /* border: 1px solid #000; */
   }
+
+  /* #about-me { */
+      /* background: chartreuse; */
+
+  /* } */
   
   .image {
     margin: 10px;
